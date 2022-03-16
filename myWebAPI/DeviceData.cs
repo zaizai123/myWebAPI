@@ -19,7 +19,11 @@
                     Id = 2,
                     deviceName = "Device 2"
                 },
-
+                                new DeviceType()
+                {
+                    Id = 3,
+                    deviceName = "Device 3"
+                }
             };
         }
     }
